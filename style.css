@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
+}
+h1{
+    font-family: "Poppins", serif;
+
+   
+    height: -10px;
+    width: 100%;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    border-radius: 9px;
+    padding: 50px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    padding-top:2px;
+    
+    
+}    
+h2{
+    font-family: "Poppins", serif;
+   
+}
+h3{
+    font-family: "Poppins", serif;
+  
+}
+p{
+    font-family: "Poppins", serif;
+    margin: 2px;
+    font-weight: 600;
+}
+p.hover{
+    color:#191970;
+}
+button, [type="button"], [type="reset"], [type="submit"] {
+    appearance: button;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(to bottom, #DED9D3, #DED9D3);
+}
+
+.st-emotion-cache-6qob1r {
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2); 
+    border-radius: none;
+}
+.st-emotion-cache-6nrhu6 .stDataFrameGlideDataEditor {
+    border-radius: none;
+    width: 1080px;
+    border: #191970;
+
+}    
+
+
+
+
+button.hover {
+    appearance: button;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(to bottom, #DED9D3, #DED9D3);
+    background-color: #191970;
+    
+}
